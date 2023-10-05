@@ -1,0 +1,20 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: rgb(58, 58, 58);
+    
+    }
+      h1{
+        color: red;
+     }
+     p{
+      color: ghostwhite;
+     }
+  
+  button{
+    background-color: ghostwhite;
+    border: none;
+    padding: 20px 50px;
+    font-size: 30px;
+    font-weight: bold;
+  }
